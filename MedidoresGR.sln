@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidoresGR2", "MedidoresDM\MedidoresGR2.csproj", "{58223719-CF2C-4F97-8D73-9AAA61C01D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidoresModels", "MedidoresDMModels\MedidoresModels.csproj", "{8CF2ED0B-E479-4D4B-9D0D-D590CF798C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58223719-CF2C-4F97-8D73-9AAA61C01D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58223719-CF2C-4F97-8D73-9AAA61C01D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58223719-CF2C-4F97-8D73-9AAA61C01D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58223719-CF2C-4F97-8D73-9AAA61C01D6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CF2ED0B-E479-4D4B-9D0D-D590CF798C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CF2ED0B-E479-4D4B-9D0D-D590CF798C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CF2ED0B-E479-4D4B-9D0D-D590CF798C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CF2ED0B-E479-4D4B-9D0D-D590CF798C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A38012EA-5991-4BD2-9396-0D2071D1D401}
+	EndGlobalSection
+EndGlobal
